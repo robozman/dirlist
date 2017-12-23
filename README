@@ -1,0 +1,3 @@
+dirlist - an ls clone in c
+
+I built this to practice a bit of systems programming in C and building something I could later incorporate into other projects such as a shell. 
